@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+body {
+  background-color: rgb(240, 240, 240);
+  color: black;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: black
+}
